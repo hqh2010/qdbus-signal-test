@@ -35,3 +35,5 @@ https://www.jianshu.com/p/10bf5d27dcfc
 https://blog.csdn.net/czhzasui/article/details/81071383
 
 https://www.qtcentre.org/threads/26871-Problems-with-marshalling-a-struct-to-Qt-DBus
+
+https://www.jianshu.com/p/438c9d2594f1
