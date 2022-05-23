@@ -4,6 +4,15 @@ This is a demo for qdbus-signal.
 
 使用qdbus signal 传递自定义结构体数据。
 
+注意：
+
+qdbus 如果在xml中定义信号，则信号参数方向为 out
+
+<signal name="uninstallStatusChange">
+    <arg name="reply" type="(is)" direction="out"/>
+    <annotation name="org.qtproject.QtDBus.QtTypeName.Out0" value="linglong::service::Reply"/>
+</signal>
+
 # 使用方式
 
 cd client
